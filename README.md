@@ -1,6 +1,6 @@
-# EEMS_instruments
+# Lab_instruments
 
-A python library that wraps up the GPIB commands for EEMS lab instruments
+A python library that wraps up the GPIB commands for lab instruments
 
 Supported instruments:
 
